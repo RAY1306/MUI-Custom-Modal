@@ -10,10 +10,12 @@ MUIのModalの仕様上、モーダルのネスト(モーダルの上に重ね�
 	- ボタン1つのみのモーダル
 - ModalOkCancel.jsx
 	- ボタン2つのモーダル
- - ModalOk.tsx
+- ModalOk.tsx
  	- ModalOkのTS版
-  - ModalOkCancel.tsx
-    	ModalOkCancelのTS版
+- ModalOkCancel.tsx
+    	- ModalOkCancelのTS版
+- test
+	- テスト用ファイル 
 
 ## props: 型 (初期値)
 - open: boolean
