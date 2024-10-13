@@ -13,7 +13,7 @@ MUIのModalの仕様上、モーダルのネスト(モーダルの上に重ね�
 	- ボタン2つのモーダル
 - ModalOk.tsx
  	- ModalOkのTS版
-  - ModalOkCancel.tsx
+- ModalOkCancel.tsx
   	-  ModalOkCancelのTS版
 - modalStyle.js
   	- モーダルのスタイルシート
