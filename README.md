@@ -1,6 +1,7 @@
 # MUIModal
 MUIのModalを自分なりに使いやすくしたものです  
-MUIを利用したReactでの開発でのみ使用可能です。JavaScript及びTypeScriptに対応しています。  
+MUIを利用したReactでの開発でのみ使用可能です。初めに`npm install @mui/material @emotion/react @emotion/styled`をプロジェクトのフォルダを任意のターミナルで実行してください。  
+JavaScript及びTypeScriptに対応しています。  
 再配布や改変に関して細かいルールは特に規定していないので自己責任でご自由にお使いください  
 
 ## セット内容
@@ -74,5 +75,6 @@ rror' | 'info' | 'warning';
 	- 右ボタンのCircularProgress表示(false)
 
 ## その他
-カスタマイズする際はMUIのドキュメントの確認をおすすめします  
+- Reactのmemoを利用しています
+- カスタマイズする際はMUIのドキュメントの確認をおすすめします  
 [https://mui.com/material-ui/getting-started/](https://mui.com/material-ui/getting-started/)
