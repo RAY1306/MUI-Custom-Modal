@@ -1,6 +1,6 @@
 # MUIModal
 MUIのModalを自分なりに使いやすくしたものです  
-MUIを利用したReactでの開発でのみ使用可能です。初めに`npm install @mui/material @emotion/react @emotion/styled`をプロジェクトのフォルダを任意のターミナルで実行してください。  
+MUIを利用したReactでの開発でのみ使用可能です。初めにプロジェクトのフォルダを任意のターミナルで開いて`npm install @mui/material @emotion/react @emotion/styled`を実行してください。  
 JavaScript及びTypeScriptに対応しています。  
 再配布や改変に関して細かいルールは特に規定していないので自己責任でご自由にお使いください  
 
