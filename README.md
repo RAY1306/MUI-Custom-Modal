@@ -1,13 +1,17 @@
 # MUIModal
 MUIのModalを自分なりに使いやすくしたものです  
-MUIを利用したReactでの開発でのみ使用可能です。  
+MUIを利用したReactでの開発でのみ使用可能です。JavaScript及びTypeScriptに対応しています。  
 再配布や改変に関して細かいルールは特に規定していないので自己責任でご自由にお使いください  
 
 ## セット内容
-- ModalOk.tsx
+- ModalOk.jsx
 	- ボタン1つのみのモーダル  
-- ModalOkCancel.tsx
+- ModalOkCancel.jsx
 	- ボタン2つのモーダル
+ - ModalOk.tsx
+ 	- ModalOkのTS版
+  - ModalOkCancel.tsx
+    	ModalOkCancelのTS版 
 
 ## props: 型 (初期値)
 - open: boolean
