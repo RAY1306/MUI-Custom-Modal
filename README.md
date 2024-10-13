@@ -1,4 +1,4 @@
-# MUIModal
+# MUI Custom Modal
 MUIのModalを自分なりに使いやすくしたものです  
 MUIを利用したReactでの開発でのみ使用可能です。初めにプロジェクトのフォルダを任意のターミナルで開いて`npm install @mui/material @emotion/react @emotion/styled`を実行してください。  
 JavaScript及びTypeScriptに対応しています。  
