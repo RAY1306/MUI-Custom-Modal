@@ -77,6 +77,6 @@ rror' | 'info' | 'warning';
 
 ## その他
 - Reactのmemoを利用しています
-- titleにはMUI Iconsも使用できますが縦方向にずれる場合があります。その際はStackで囲むなどして適宜調整してください
-- カスタマイズする際はMUIのドキュメントの確認をおすすめします
+- titleにはMUI Iconsも使用できますが見出し文をTypographyなどでマークアップしないと縦方向にズレが生じる場合があります。
+- カスタマイズする際はMUIドキュメントの確認をおすすめします
 [https://mui.com/material-ui/getting-started/](https://mui.com/material-ui/getting-started/)
