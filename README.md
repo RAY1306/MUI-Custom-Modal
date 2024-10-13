@@ -39,8 +39,7 @@ MUIのModalの仕様上、モーダルのネスト(モーダルの上に重ね�
 - btn1Varient?: 'text' | 'outlined' | 'contained';
 	- 左ボタンのMUIでの種類("contained") 詳細：[https://mui.com/material-ui/react-button/](https://mui.com/material-ui/react-button/)
 
-- btn1Color?: 'inherit' | 'primary' | 'secondary' | 'success' | 'e
-rror' | 'info' | 'warning';
+- btn1Color?: 'inherit' | 'primary' | 'secondary' | 'success' | 'error' | 'info' | 'warning';
 	- 左ボタンのカラー("secondary")
 
 - btn1startIcon?: React.ReactNode | null;
@@ -61,8 +60,7 @@ rror' | 'info' | 'warning';
 - btn2Varient?: 'text' | 'outlined' | 'contained';
 	- 右ボタンのMUIでの種類("contained") 詳細：[https://mui.com/material-ui/react-button/](https://mui.com/material-ui/react-button/)
 
-- btn2Color?: 'inherit' | 'primary' | 'secondary' | 'success' | 'e
-rror' | 'info' | 'warning';
+- btn2Color?: 'inherit' | 'primary' | 'secondary' | 'success' | 'error' | 'info' | 'warning';
 	- 右ボタンのカラー("secondary")
 
 - btn2startIcon?: React.ReactNode | null;
