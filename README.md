@@ -3,6 +3,7 @@ MUIのModalを自分なりに使いやすくしたものです
 MUIを利用したReactでの開発でのみ使用可能です。初めにプロジェクトのフォルダを任意のターミナルで開いて`npm install @mui/material @emotion/react @emotion/styled`を実行してください。  
 JavaScript及びTypeScriptに対応しています。  
 MUIのModalの仕様上、モーダルのネスト(モーダルの上に重ねて表示するモーダル)も可能です。  
+必要なjsx(またはtsx)ファイルとmodalStyle.jsを同じ階層に配置して使用してください。
 再配布や改変に関して細かいルールは特に規定していないので自己責任でどなたでもご自由にお使いください。  
 
 ## セット内容
@@ -14,6 +15,8 @@ MUIのModalの仕様上、モーダルのネスト(モーダルの上に重ね�
  	- ModalOkのTS版
 - ModalOkCancel.tsx
     	- ModalOkCancelのTS版
+- modalStyle.js
+  	- モーダルのスタイルシート
 - test
 	- テスト用ファイル 
 
